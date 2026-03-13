@@ -43,7 +43,7 @@ public class TutorialModByKerozione {
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
             event.accept(Moditems.PYRITE);
-            event.accept(Moditems.CALCINED_PYRITE);
+            event.accept(Moditems.CALCINED_PYRITE);w
         }
     }
 

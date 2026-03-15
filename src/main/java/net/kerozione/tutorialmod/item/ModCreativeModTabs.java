@@ -1,6 +1,7 @@
 package net.kerozione.tutorialmod.item;
 
 import net.kerozione.tutorialmod.TutorialModByKerozione;
+import net.kerozione.tutorialmod.block.ModBlocks;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
@@ -20,6 +21,7 @@ public class ModCreativeModTabs {
                         pOutput.accept(Moditems.PYRITE.get());
                         pOutput.accept(Moditems.CALCINED_PYRITE.get());
 
+                        pOutput.accept(ModBlocks.PYRITE_ORE.get());
 
                     })
                     .build());

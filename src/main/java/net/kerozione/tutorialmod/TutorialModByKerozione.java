@@ -1,6 +1,7 @@
 package net.kerozione.tutorialmod;
 
 import com.mojang.logging.LogUtils;
+import net.kerozione.tutorialmod.block.ModBlocks;
 import net.kerozione.tutorialmod.item.ModCreativeModTabs;
 import net.kerozione.tutorialmod.item.Moditems;
 import net.minecraft.world.item.CreativeModeTabs;
@@ -28,6 +29,7 @@ public class TutorialModByKerozione {
         ModCreativeModTabs.register(modEventBus);
 
         Moditems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
@@ -43,7 +45,7 @@ public class TutorialModByKerozione {
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
             event.accept(Moditems.PYRITE);
-            event.accept(Moditems.CALCINED_PYRITE);w
+            event.accept(Moditems.CALCINED_PYRITE);
         }
     }
 

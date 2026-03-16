@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmodbykerozione:calcined_pyrite"
+    }
+  },
+  "result": {
+    "item": "tutorialmodbykerozione:pyrite_block"
+  }
+}

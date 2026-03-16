@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "tutorialmodbykerozione:pyrite_block"
+    }
+  ],
+  "result": {
+    "item": "tutorialmodbykerozione:calcined_pyrite",
+    "count": 9
+  }
+}

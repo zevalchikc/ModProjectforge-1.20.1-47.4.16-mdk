@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "combat",
+  "pattern": [
+    "aa ",
+    "ab ",
+    " b "
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:stick"
+    },
+    "a": {
+      "item": "tutorialmodbykerozione:calcined_pyrite"
+    }
+  },
+  "result": {
+    "item": "tutorialmodbykerozione:pyrite_axe"
+  }
+}

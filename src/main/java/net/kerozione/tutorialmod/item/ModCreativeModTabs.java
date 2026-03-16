@@ -22,6 +22,16 @@ public class ModCreativeModTabs {
                         pOutput.accept(Moditems.CALCINED_PYRITE.get());
 
                         pOutput.accept(ModBlocks.PYRITE_ORE.get());
+                        pOutput.accept(ModBlocks.PYRITE_BLOCK.get());
+                        pOutput.accept(ModBlocks.DEEPSLATE_PYRITE_ORE.get());
+
+                        pOutput.accept(Moditems.METAL_DETECTOR.get());
+
+                        pOutput.accept(Moditems.PYRITE_SWORD.get());
+                        pOutput.accept(Moditems.PYRITE_PICKAXE.get());
+                        pOutput.accept(Moditems.PYRITE_AXE.get());
+                        pOutput.accept(Moditems.PYRITE_SHOVEL.get());
+                        pOutput.accept(Moditems.PYRITE_HOE.get());
 
                     })
                     .build());

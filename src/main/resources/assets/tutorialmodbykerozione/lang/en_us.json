@@ -2,7 +2,21 @@
   "item.tutorialmodbykerozione.pyrite": "Pyrite",
   "item.tutorialmodbykerozione.calcined_pyrite": "Calcined Pyrite",
 
+
   "block.tutorialmodbykerozione.pyrite_ore": "Pyrite Ore",
+  "block.tutorialmodbykerozione.pyrite_block": "Pyrite Block",
+  "block.tutorialmodbykerozione.deepslate_pyrite_ore": "Deepslate Pyrite Ore",
+
+
+  "item.tutorialmodbykerozione.metal_detector": "Metol Detector",
+
+  "item.tutorialmodbykerozione.pyrite_sword": "Pyrite Sword",
+  "item.tutorialmodbykerozione.pyrite_pickaxe": "Pyrite Pickaxe",
+  "item.tutorialmodbykerozione.pyrite_axe": "Pyrite Axe",
+  "item.tutorialmodbykerozione.pyrite_shovel": "Pyrite Shovel",
+  "item.tutorialmodbykerozione.pyrite_hoe": "Pyrite Hoe",
+
+
 
   "creativetab.tutorial_tab": "Pyrite Tutorial Mod"
 }

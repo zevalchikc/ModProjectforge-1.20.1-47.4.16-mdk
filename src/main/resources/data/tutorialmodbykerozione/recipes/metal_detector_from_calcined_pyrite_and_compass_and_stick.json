@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "combat",
+  "pattern": [
+    "  b",
+    " ca",
+    "aa "
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft:compass"
+    },
+    "b": {
+      "item": "minecraft:blaze_rod"
+    },
+    "a": {
+      "item": "tutorialmodbykerozione:calcined_pyrite"
+    }
+  },
+  "result": {
+    "item": "tutorialmodbykerozione:metal_detector"
+  }
+}
